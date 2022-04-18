@@ -1,5 +1,4 @@
-# Trab1-2test
-test
-Eduardo Oliveira
+# Trab1-2
+Eduardo Oliveira 
 Wagner Lopes
 need install a numpy
